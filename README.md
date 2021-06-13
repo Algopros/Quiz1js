@@ -18,6 +18,7 @@ Examples:
 1. Given A = [2, 3, 3, 4], L = 3 and R = 1, your function should return 3, since only three disks can be placed on the rods. Note that the disk of size 2 can be placed on either the left rod or the right rod.
 
 "Graphical representation of first solution to example 1."
+![alt text](https://github.com/Algopros/Codility-n-Disks/blob/main/Images/expl0.png)
 
 "Graphical representation of second solution to example 1."
 
