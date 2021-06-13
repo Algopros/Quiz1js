@@ -5,7 +5,8 @@ You are given N disks and two rods, each with one initial disk.
 
 On the left rod, disks can be placed in decreasing order of size (smaller disks on top of bigger ones). On the right rod, disks can be placed in increasing order of size (bigger disks on top of smaller ones). Note that it is not permissible to place two disks of equal size on top of each other. The initial disks cannot be moved.
 
-"Image of two hanoi towers, each with three disks."
+"Image of two hanoi towers, each with three disks."</br>
+![alt text](https://github.com/Algopros/Codility-n-Disks/blob/main/Images/quizimg.png)
 
 Write a function:
 
@@ -20,19 +21,23 @@ Examples:
 "Graphical representation of first solution to example 1."</br>
 ![alt text](https://github.com/Algopros/Codility-n-Disks/blob/main/Images/expl0.png)
 
-"Graphical representation of second solution to example 1."
+"Graphical representation of second solution to example 1."</br>
+![alt text](https://github.com/Algopros/Codility-n-Disks/blob/main/Images/expl1.png)
 
 2. Given A = [1, 4, 5, 5], L = 6 and R = 4, your function should return 4.
 
-"Graphical representation of second solution to example 2."
+"Graphical representation of second solution to example 2."</br>
+![alt text](https://github.com/Algopros/Codility-n-Disks/blob/main/Images/expl2.png)
 
 3. Given A = [5, 2, 5, 2], L = 8 and R = 1, your function should return 4.
 
-"Graphical representation of second solution to example 3."
+"Graphical representation of second solution to example 3."</br>
+![alt text](https://github.com/Algopros/Codility-n-Disks/blob/main/Images/expl3.png)
 
 4. Given A = [1, 5, 5], L = 2 and R = 4, your function should return 2.
 
-"Graphical representation of second solution to example 4."
+"Graphical representation of second solution to example 4."</br>
+![alt text](https://github.com/Algopros/Codility-n-Disks/blob/main/Images/expl4.png)
 
 Write an efficient algorithm for the following assumptions:
 
