@@ -1,6 +1,7 @@
 # Codility-n-Disks
 Challenge 1 from Codility --https://app.codility.com/programmers/challenges/may_the_4th_2021/
 
+## Question
 You are given N disks and two rods, each with one initial disk.
 
 On the left rod, disks can be placed in decreasing order of size (smaller disks on top of bigger ones). On the right rod, disks can be placed in increasing order of size (bigger disks on top of smaller ones). Note that it is not permissible to place two disks of equal size on top of each other. The initial disks cannot be moved.
