@@ -7,7 +7,6 @@ You are given N disks and two rods, each with one initial disk.
 On the left rod, disks can be placed in decreasing order of size (smaller disks on top of bigger ones). On the right rod, disks can be placed in increasing order of size (bigger disks on top of smaller ones). Note that it is not permissible to place two disks of equal size on top of each other. The initial disks cannot be moved.
 
 "Image of two hanoi towers, each with three disks."</br>
-![alt text](https://github.com/Algopros/Codility-n-Disks/blob/main/Images/quizimg.png)
 
 Write a function:
 
