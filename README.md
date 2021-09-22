@@ -1,5 +1,4 @@
 # Codility-n-Disks
-Challenge 1 from Codility --https://app.codility.com/programmers/challenges/may_the_4th_2021/
 
 ## Question
 You are given N disks and two rods, each with one initial disk.
