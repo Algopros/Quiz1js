@@ -1,4 +1,4 @@
-# Codility-n-Disks
+
 
 ## Question
 You are given N disks and two rods, each with one initial disk.
